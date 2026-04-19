@@ -1,6 +1,6 @@
 # leonardodcalves.github.io
 
-Meu blog pessoal. Escrevo sobre o que me der na telha — tecnologia, coisas que estou aprendendo, pensamentos aleatórios.
+Meu blog pessoal. Escrevo sobre o que eu quiser escrever.
 
 **Site ao vivo:** [leonardodcalves.github.io](https://leonardodcalves.github.io)
 
@@ -10,7 +10,7 @@ Sou o Leonardo. Engenheiro Agrônomo, sul-mato-grossense, cozinheiro, fotógrafo
 
 ## Sobre o site
 
-Este blog é um site estático gerado por um pequeno script Python. Sem frameworks pesados, sem banco de dados, sem JavaScript rodando no cliente — apenas HTML, CSS, e alguns arquivos Markdown que eu escrevo.
+Este blog é um site estático gerado por um pequeno script Python. Sem frameworks pesados, sem banco de dados, sem JavaScript rodando no cliente — apenas HTML, CSS, e alguns arquivos Markdown.
 
 ---
 
