@@ -394,3 +394,29 @@ nav { display: flex; gap: 28px; }
   .post-date { padding-top: 0; }
   .site-footer .container { flex-direction: column; gap: 12px; text-align: center; }
 }
+
+/* ─── Images in prose ─────────────────────────────────────────── */
+.prose img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+  margin: 2em auto;
+  border: 1px solid var(--border);
+}
+
+.prose figure {
+  margin: 2em 0;
+  text-align: center;
+}
+
+.prose figure img {
+  margin: 0 auto 0.75em;
+}
+
+.prose figcaption {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  color: var(--text-dim);
+  letter-spacing: 0.02em;
+}
