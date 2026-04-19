@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Blog pessoal: LeonardoDCAlves</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="noise"></div>
+
+  <header class="site-header">
+    <div class="container">
+      <a href="index.html" class="logo">LDCAlves<span class="logo-dot">.</span></a>
+      <nav>
+        <a href="index.html" class="nav-link active">writing</a>
+        <a href="about.html" class="nav-link ">about</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    
+    <section class="hero">
+      <p class="hero-label">Latest posts</p>
+      <h1 class="hero-title">Da minha vida<br /><em>para o meu blog.</em></h1>
+    </section>
+
+    <section class="post-list">
+      <a class="post-item" href="hello-blog.html">
+        <span class="post-date">Apr 19, 2026</span>
+        <div class="post-meta">
+          <span class="post-title">Hello, Blog</span>
+          <span class="post-excerpt">Do blogspot, redes sociais, ao github.</span>
+          <span class="post-tag">meta</span>
+        </div>
+      </a>
+    </section>
+    
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <span>© 2026 LeonardoDCAlves</span>
+      <div class="footer-links">
+        <a href="https://github.com/leonardodcalves" target="_blank" rel="noopener">GitHub</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    document.body.style.opacity = "0";
+    document.body.style.transition = "opacity 0.3s ease";
+    window.addEventListener("load", () => { document.body.style.opacity = "1"; });
+  </script>
+</body>
+</html>
