@@ -2,8 +2,10 @@
 
 Fight against Microsoft's data mining.
 
-I've moved to GitLab. access the website here: https://aleodcalves.gitlab.io/
+I've moved to GitLab. access the website here: https://leonardodcalves.gitlab.io/
 
-available at https://gitlab.com/aleodcalves/aleodcalves.gitlab.io
+available at https://gitlab.com/leonardodcalves/leonardodcalves.gitlab.io
 
-https://gitlab.com/aleodcalves
+https://gitlab.com/leonardodcalves
+
+e-mail me at contato@dcalves.com
